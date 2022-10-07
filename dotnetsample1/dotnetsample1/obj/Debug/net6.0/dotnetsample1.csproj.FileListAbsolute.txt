@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\bin\Debug\net6.0\dotnetsample1.exe
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\bin\Debug\net6.0\dotnetsample1.deps.json
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\bin\Debug\net6.0\dotnetsample1.runtimeconfig.json
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\bin\Debug\net6.0\dotnetsample1.dll
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\bin\Debug\net6.0\dotnetsample1.pdb
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.dll
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\refint\dotnetsample1.dll
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.pdb
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\dotnetsample1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dotnetsample1\dotnetsample1\obj\Debug\net6.0\ref\dotnetsample1.dll
